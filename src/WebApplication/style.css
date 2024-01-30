@@ -1,0 +1,27 @@
+.topNav{
+    background-color: yellow;
+    width: 100%;
+    padding: 10px;
+}
+.title{
+    text-align: center;
+    justify-content: center;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.search > input{
+    border: none;
+    width: 40%;
+    border-bottom: 2px solid #D6D6D6;
+}
+
+.search > input:focus{
+    border-bottom: 2px solid #D6D6D6;
+    border: none;
+    box-shadow: none;
+    outline: none;
+}

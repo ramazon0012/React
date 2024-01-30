@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+}
+nav .navbar-brand{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: ivory;
+}
+ul{
+    display: flex;
+}
+ul li{
+    margin: 10px;
+    list-style-type: none;
+}
+
+ul li a{
+    color: #fff;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Ramazon",
+        "age" : 13,
+        "isStudent" : false,
+        "city" : "Yangiyer",
+        "phone" : 998330887685
+    },
+    {
+        "name" : "Abbos",
+        "age" : 18,
+        "isStudent" : true,
+        "city" : "Xovos",
+        "phone" : 9984554654545
+    },
+    {
+        "name" : "Ali",
+        "age" : 14,
+        "isStudent" : false,
+        "city" : "Yangiyer",
+        "phone" : 99833045455
+    },
+    {
+        "name" : "Nodir",
+        "age" : 21,
+        "isStudent" : true,
+        "city" : "Guliston",
+        "phone" : 99865478963
+    }
+]

@@ -1,0 +1,6 @@
+.imageSection{
+    text-align: center;
+}
+.imageSection > img{
+    width: 90%;
+}
